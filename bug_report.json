@@ -1,1 +1,19 @@
-
+{ 
+ "ID" : "A1",
+ "severity" : "trivial",
+ "environment" : "IOS 16.4.1 Safari",
+ "bug title" : "The selected topic in the content after click is not transfered to the beginning of the text",
+ "steps" : {
+"1" : "Navigate to Capital.com",
+"2" : "Hover  the cursor over [Shulung](Education)",
+"3" : "Click [CFD - Handel] (CFD traiding guide)",
+"4" : "Click the accordion [Inhalt](Content)",
+"5" : "Click any point of the accordion"
+ },
+ "expectd result" : "Transfer to the beginning of the selected topic",
+ "actual result" : "Doesn't Transfer to the beginning of the selected topic",
+ "attachment" : "link",
+ "license" : "all",
+ "rolle" : "all",
+ "bug started" : "@Solvit08"
+}
