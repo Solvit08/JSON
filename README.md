@@ -18,7 +18,7 @@
  > git add new.json; git commit -m "json_2"; git push
  9. Create a preferences.json file
  > touch preferences.json
- 10. To the file preferences.json add information about your preferences (Favorite movie, favorite TV series, favorite food, favorite time of year, party you would like to visit) in JSON.
+ 10. To the file preferences.json add information about your preferences (Favorite movie, favorite TV series, favorite food, favorite season, country you would like to visit) in JSON.
  > vim preferences.json
  > add information
  11. Create a sklls.json file add information about the skills that will be studied in the course in JSON format
@@ -30,7 +30,7 @@
  > add file - create new file - name: bug_report
  14. Make Commit changes (save) changes on the web interface.
  > create file
- 15. Modify the bug_report file on the web interface.json, add a bug report in JSON.
+ 15. Modify the bug_report.json file on the web interface, add a bug report in JSON.
  > edit this file
  > write bug report
  16. Make Commit changes (save) changes on the web interface.
