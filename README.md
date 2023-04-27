@@ -14,6 +14,8 @@
  7. Edit the contents of the file “new.json” - write information about yourself (full name, age, number of pets, future desired salary). Write everything in JSON format.
  > vim new.json
  > write information
+ 
+ 
  8. Send changes to an external repository.
  > git add new.json; git commit -m "json_2"; git push
  9. Create a preferences.json file
